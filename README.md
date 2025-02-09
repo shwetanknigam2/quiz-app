@@ -30,16 +30,19 @@ A **React-based quiz application** . It allows users to answer multiple-choice q
 ## 📥 Installation & Setup  
 Follow these steps to run the project locally:  
 
-1️ **Clone the Repository**  
+1.**Clone Repository **
+
 ```bash
 git clone https://github.com/YOUR_USERNAME/quiz-app.git
 cd quiz-app
 
-**Install Dependencies**
+2. **Install Dependencies**
+
 npm install
  
-**Run the Project**
-npm start
+3. **Run the Project**
+
+npm run dev
 
 
 The app will run on http://localhost:5173/
