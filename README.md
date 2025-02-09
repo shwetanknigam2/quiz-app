@@ -28,9 +28,10 @@ A **React-based quiz application** . It allows users to answer multiple-choice q
 
 
 ## 📥 Installation & Setup  
-Follow these steps to run the project locally:  
 
-1.**Clone Repository **
+Follow these steps to run quiz app
+
+1. **Clone the Repository*
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/quiz-app.git
