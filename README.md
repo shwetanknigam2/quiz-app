@@ -14,16 +14,17 @@ A **React-based quiz application** . It allows users to answer multiple-choice q
 - **Axios (for API calls)** 🌐  
 
 
-## Project Structure  
-/quiz-app
-│── package.json
-│── README.md
-│── src/
-│ ├── pages/
-│ │ ├── Home.jsx (Start Page)
-│ │ ├── Quiz.jsx (Main Quiz Page)
-│ ├── api.js (Fetches quiz data)
-│ ├── App.jsx (Routing)
+## 📂 Project Structure  
+
+- `/quiz-app`
+  - `package.json`
+  - `README.md`
+  - `/src`
+    - `/pages`
+      - `Home.jsx` (Start Page)
+      - `Quiz.jsx` (Main Quiz Page)
+    - `api.js` (Fetches quiz data)
+    - `App.jsx` (Routing)
 
 
 ## 📥 Installation & Setup  
